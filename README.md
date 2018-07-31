@@ -1,8 +1,8 @@
 # User_clicking_Fake_Advertisements
 # Predict whether or not they will click on an ad based off the features of that user.
 
-# LOGISTIC REGRESSION PROJECT SOLUTIONS 
-- In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+## LOGISTIC REGRESSION PROJECT 
+- In this project I worked with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. A model was created that will predict whether or not a user will click on an ad based off the features of that user.
 -    This data set contains the following features:
 -    'Daily Time Spent on Site': consumer time on site in minutes
 -    'Age': cutomer age in years
